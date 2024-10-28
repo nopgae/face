@@ -1,0 +1,9 @@
+[submodule "submodules/facenet"]
+	path = submodules/facenet
+	url = https://github.com/nopgae/facenet
+[submodule "submodules/facenet-pytorch"]
+	path = submodules/facenet-pytorch
+	url = https://github.com/nopgae/facenet-pytorch
+[submodule "submodules/SadTalker"]
+	path = submodules/SadTalker
+	url = https://github.com/nopgae/SadTalker
